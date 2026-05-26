@@ -34,7 +34,7 @@ svynct@github:~$ █
 
 
 [![Gmail](https://img.shields.io/badge/-ricardoamaral2703%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ricardoamaral2703@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-ricardo--dos--santos--amaral-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-dos-santos-amaral)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ricardo-dos-santos-amaral)
 
 </div>
 
